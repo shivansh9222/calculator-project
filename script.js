@@ -1,20 +1,3 @@
-// let input = document.getElementById('shiva');
-// let buttons =document.querySelectorALL
-// ('button');
-
-// let string = "";
-// let arr =Array.from(buttons);
-// arr.forEach(button =>{
-//     button.addEventListener('click',(e)=>{
-//     if(e.target.innerHTML == '=')
-//     {
-//         string=eval(string);
-//         input.value=string;
-//     }
-//     string+=e.target.innerHTML;
-//     input.value=string;
-// })
-// })
 let input = document.getElementById('shiva');
 let buttons = document.querySelectorAll('button');
 
